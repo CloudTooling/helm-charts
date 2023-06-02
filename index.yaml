@@ -3,10 +3,19 @@ entries:
   olm:
     - apiVersion: v2
       created: "2023-05-06T07:51:13.991079645Z"
-      description: A Helm chart for Kubernetes
-      digest: ca43ffad9d1ccf8e027a0d38ff2d5a497828e1e195ff844020b87660ceb0454b
+      description: A Helm chart for OLM
+      digest: e3dce85dd8d47c845506d4d0b787d98679adcc4535fb3469b361a762d2a71b2e2627846aaee89f2c27b4174ef6c0eb37542d924dce4866f0677b19623e112a3c
       name: olm
       urls:
         - https://github.com/CloudTooling/k8s-olm/releases/download/olm-v0.24.0/olm-v0.24.0.tgz
       version: v0.24.0
-generated: "2023-05-06T07:51:13.991088245Z"
+  keycloak-reporter:
+    - apiVersion: v2
+      created: "2023-06-02T06:51:13.991079645Z"
+      description: A Helm chart for Keycloak Reporting
+      digest: d500bfa817c8e05587d5e8dfc5f17090e1c6ca6e62940197f21ab8f5b8fd317fa47239317685208f6848c1a90502ae96b49bff572987f28e04448819a0661380
+      name: olm
+      urls:
+        - https://github.com/ContinuousSecurityTooling/keycloak-reporter/releases/download/keycloak-reporter-0.2.0/keycloak-reporter-0.2.0.tgz
+      version: v0.2.0
+generated: "2023-06-02T06:51:13.991079645Z"
