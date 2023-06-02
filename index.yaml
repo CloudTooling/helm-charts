@@ -8,7 +8,7 @@ entries:
       name: olm
       urls:
         - https://github.com/CloudTooling/k8s-olm/releases/download/olm-v0.24.0/olm-v0.24.0.tgz
-      version: v0.24.0
+      version: 0.24.0
   keycloak-reporter:
     - apiVersion: v2
       created: "2023-06-02T06:51:13.991079645Z"
@@ -17,5 +17,5 @@ entries:
       name: olm
       urls:
         - https://github.com/ContinuousSecurityTooling/keycloak-reporter/releases/download/keycloak-reporter-0.2.0/keycloak-reporter-0.2.0.tgz
-      version: v0.2.0
+      version: 0.2.0
 generated: "2023-06-02T06:51:13.991079645Z"
