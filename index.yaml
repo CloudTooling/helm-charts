@@ -9,6 +9,14 @@ entries:
       urls:
         - https://github.com/CloudTooling/k8s-olm/releases/download/olm-v0.24.0/olm-v0.24.0.tgz
       version: 0.24.0
+    - apiVersion: v2
+      created: "2023-07-15T07:01:13.991079645Z"
+      description: A Helm chart for OLM
+      digest: 2c4c89bcba8a7f53e2d0f3e8d83f1d47a9d2900b5b021f858a4cdae70370118cd2455ceca663c5eee72c5d1ba7ce6f21ac47b3d9036a82143391f0a72fb9f21a
+      name: olm
+      urls:
+        - https://github.com/CloudTooling/k8s-olm/releases/download/olm-0.25.0/olm-0.25.0.tgz
+      version: 0.25.0
   keycloak-reporter:
     - apiVersion: v2
       created: "2023-06-02T06:51:13.991079645Z"
